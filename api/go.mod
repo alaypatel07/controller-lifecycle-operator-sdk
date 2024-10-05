@@ -6,7 +6,7 @@ toolchain go1.22.3
 
 require (
 	github.com/openshift/custom-resource-status v1.1.2
-	k8s.io/api v0.30.2
+	k8s.io/api v0.31.0
 )
 
 require (
